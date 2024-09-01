@@ -144,20 +144,5 @@ pipeline {
 }
 ```
 
-### **Future Enhancements**
-
-- **Blockchain Integration:** Fully integrate the backend with Ethereum smart contracts using Web3.js.
-- **Security:** Implement JWT authentication and HTTPS for secure communication.
-- **VR Trading Hub:** Expand the frontend to include a virtual reality experience for trading.
-
-### **Contributing**
-
-Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
-
-### **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 This README provides a comprehensive overview of the project, including setup instructions, API details, and future enhancements.
