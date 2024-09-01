@@ -4,7 +4,7 @@ Here's a README file for the Intergalactic Trade Network project:
 
 # **Intergalactic Trade Network (ITN)**
 
-The Intergalactic Trade Network (ITN) is a decentralized system designed to facilitate trade across multiple planets, space stations, and civilizations. This project uses Node.js, Express.js, MongoDB, React.js, and blockchain technologies to create a secure, scalable, and transparent trading platform.
+The Intergalactic Trade Network (ITN) is a decentralized system designed to facilitate trade across multiple planets, space stations, and civilizations. This project uses Node.js, Express.js, MongoDB, React.js, to create a secure, scalable, and transparent trading platform.
 
 ## **Project Structure**
 
@@ -38,16 +38,13 @@ itn/
   - Node.js
   - Express.js
   - MongoDB
-  - Web3.js (for blockchain interaction)
+  - Web3.js
   - Solidity (for Ethereum smart contracts)
   - Docker for containerization
 
 - **Frontend:**
   - React.js
   - Axios (for API requests)
-
-- **Blockchain:**
-  - Ethereum (Solidity smart contracts)
 
 - **DevOps:**
   - Docker
@@ -104,14 +101,14 @@ Make sure you have the following installed:
 
 ### **Smart Contracts**
 
-- The `TradeAgreement.sol` smart contract handles the trade agreements between buyers and sellers. This contract can be deployed on the Ethereum blockchain or a compatible testnet.
+- The `TradeAgreement.sol` smart contract handles the trade agreements between buyers and sellers. 
 
 ### **Docker Setup**
 
 The project uses Docker and Docker Compose to manage the different services.
 
 - **MongoDB:** The database for storing users and trades.
-- **Backend:** The Node.js server that handles API requests and interacts with the blockchain.
+- **Backend:** The Node.js server that handles API requests.
 - **Frontend:** The React.js application that serves the UI.
 
 ### **CI/CD Pipeline**
