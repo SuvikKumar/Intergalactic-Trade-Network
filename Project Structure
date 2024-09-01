@@ -1,0 +1,21 @@
+itn/
+├── backend/
+│   ├── contracts/
+│   │   ├── TradeAgreement.sol
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Trade.js
+│   ├── routes/
+│   │   ├── user.js
+│   │   ├── trade.js
+│   ├── config/
+│   │   ├── db.js
+│   ├── app.js
+│   ├── server.js
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── App.js
+│   │   ├── index.js
+├── docker-compose.yml
+├── package.json
